@@ -1,0 +1,20 @@
+
+
+body{
+
+    background-color: rgb(42, 151, 151);
+}
+
+
+button{
+    
+    
+    border: none;
+    background-color: darkslategray;
+}
+button:hover{
+    
+    background-color: rgb(57, 113, 113);
+
+
+}
